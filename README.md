@@ -1,6 +1,6 @@
 # Prime_News_Aggregator
 
- Prime_News_Aggregator is a web application which aggregates news articles from websites (Times Of India)  and then present the data in one location.
+ Prime_News_Aggregator is a web application which aggregates news articles headlines from Times Of India website.
  
  
  ![image](https://user-images.githubusercontent.com/83420072/119280794-8b92ee80-bc50-11eb-80d8-79fdcf89289d.png)
